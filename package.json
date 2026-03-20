@@ -1,0 +1,20 @@
+{
+  "name": "college_gram",
+  "version": "1.0.0",
+  "description": "A simplified Instagram-style social platform focused on college students.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyasacharya1/collegegram.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreyasacharya1/collegegram/issues"
+  },
+  "homepage": "https://github.com/shreyasacharya1/collegegram#readme"
+}
